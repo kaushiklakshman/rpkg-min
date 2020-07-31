@@ -4,4 +4,4 @@ cache: packages
 r:
   - oldrel
   - release
-  - devrel
+  - devel
